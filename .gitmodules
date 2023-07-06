@@ -1,4 +1,4 @@
-[submodule "fast-api-test"]
+[submodule "fastapi-test"]
   active = true
-	url = https://github.com/suraw00t/fast-api-test.git
-	path = fast-api-test
+	url = https://github.com/suraw00t/fastapi-test.git
+	path = fastapi-test
