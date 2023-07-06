@@ -2,3 +2,6 @@
   active = true
 	url = https://github.com/suraw00t/fastapi-test.git
 	path = fastapi-test
+[submodule "sitemap-controller"]
+	path = sitemap-controller
+	url = https://github.com/suraw00t/sitemap-controller.git
