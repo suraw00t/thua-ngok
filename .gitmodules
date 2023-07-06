@@ -1,0 +1,3 @@
+[submodule "fast-api-test"]
+  active = true
+  url = git@github.com:suraw00t/fast-api-test.git
