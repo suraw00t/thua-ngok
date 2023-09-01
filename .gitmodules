@@ -5,3 +5,5 @@
 [submodule "sitemap-controller"]
 	path = sitemap-controller
 	url = git@github.com:suraw00t/sitemap-controller.git
+[submodule "sveltekit-test"]
+	url = git@github.com:suraw00t/sveltekit-test.git
